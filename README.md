@@ -27,18 +27,10 @@ As the commander of advanced underwater drones, players navigate the uncharted d
 ### Challenges
 
 - Encounter a diverse ecosystem of aquatic animals, each with its own behavior and challenges.
-- Engage in strategic decision-making, choosing between evasive maneuvers and combat to protect your drones from hostile creatures.
-
+  
 ### Upgrades
 
 - Earn money by selling mined resources and use it to upgrade your drone fleet.
-- Enhance weaponry to fend off aggressive creatures, expand storage capacity for increased efficiency, and unlock more advanced submarines for deeper exploration.
-
-## Different Environments
-
-### Coral Reefs
-
-- Explore vibrant and bustling coral reefs, teeming with life and color. Solve puzzles amidst the intricate coral formations.
 
 ### Abyssal Plains
 
